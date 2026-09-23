@@ -4,4 +4,4 @@ A foundational Machine Learning notebook covering supervised vs. unsupervised le
 
 ## Visualization
 You can view the visualization analysis results here:
-[Click to view the Exoplanet EDA Data Preparation](https://colab.research.google.com/drive/1-3cIQRuJZw02zt6nq6T8I2vycvTY5Z_b?usp=sharing)
+[Click to view the Salary-Prediction-Linear-Regression](https://colab.research.google.com/drive/1-3cIQRuJZw02zt6nq6T8I2vycvTY5Z_b?usp=sharing)
